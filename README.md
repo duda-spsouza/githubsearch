@@ -27,3 +27,5 @@ npm start
 - [x] localStorage HTML5
 - [ ] Paginação
 - [ ] Testes
+## GitHub Search
+<img width="960" alt="github" src="https://cloud.githubusercontent.com/assets/7572502/25404758/7e192220-29d7-11e7-942b-7970ad207b8a.PNG">
