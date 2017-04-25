@@ -6,6 +6,7 @@ Projeto da criação de uma aplicação para pesquisa de Usuários utilizando a 
 Para utilizar a aplicação no ambiente local, basta clonar este repositório, e executar os seguintes comandos:
 
 git clone https://github.com/duda-spsouza/githubsearch.git  githubsearch
+
 cd githubsearch
 
 npm install
@@ -24,5 +25,5 @@ npm start
 - [x] Listagem de Repositórios
 - [x] Interface
 - [x] localStorage HTML5
-- []  Paginação
-- [] Testes
+- [ ] Paginação
+- [ ] Testes
