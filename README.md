@@ -20,8 +20,8 @@ npm start
  
 ### Itens Feitos
 - [x] Estrutura base da aplicação
-- [x] Pesquisa de Usuários
-- [x] Listagem de Repositórios
+- [x] Pesquisa dos Usuários
+- [x] Listagem dos Repositórios
 - [x] Interface
 - [x] localStorage HTML5
 - [ ] Paginação
