@@ -14,8 +14,8 @@ npm start
 // abrir o navegador em "http://localhost:3000/"
 
 ## Motivações/Outros
-- Foi escolhido para utilizar o Framework Angular 2 Quick Start ele foi lançado a pouco tempo pela Google, documentações sendo estruturadas,bem diferente do Angular1
-- Evolução pessoal pois tinha conhecimento somente do angular1
+- Foi escolhido para utilizar o Framework Angular 2 Quick Start está nova versão foi lançada à pouco tempo pela Google, documentações  estão sendo estruturadas e bem diferente do Angular1
+- Evolução pessoal pois tinha conhecimento somente no Angular1
 - O projeto tem ferramentas para a cobertura de testes como Jasmine, Karma e Protractor 
  
 ### Itens Feitos
